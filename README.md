@@ -2,11 +2,17 @@
 
 ## [ByteDance/LapNet](https://github.com/bytedance/LapNet)
 
+![](https://img.shields.io/github/stars/bytedance/lapnet?style=flat)
+![](https://img.shields.io/github/last-commit/bytedance/lapnet)
+
 Efficient and Accurate Neural-Network Ansatz for Quantum Monte Carlo.
 
 > R. Li et al., A Computational Framework for Neural Network-Based Variational Monte Carlo with Forward Laplacian, [Nat Mach Intell 6, 209 (2024)](https://doi.org/10.1038/s42256-024-00794-x).
 
 ## [ByteDance/JaQMC](https://github.com/bytedance/jaqmc)
+
+![](https://img.shields.io/github/stars/bytedance/jaqmc?style=flat)
+![](https://img.shields.io/github/last-commit/bytedance/jaqmc)
 
 JAX accelerated Quantum Monte Carlo.
 
@@ -14,12 +20,18 @@ JAX accelerated Quantum Monte Carlo.
 
 ## [ByteDance/DeepSolid](https://github.com/bytedance/deepsolid)
 
+![](https://img.shields.io/github/stars/bytedance/deepsolid?style=flat)
+![](https://img.shields.io/github/last-commit/bytedance/deepsolid)
+
 A library combining solid quantum Monte Carlo and neural network. 
 
 > X. Li, Z. Li, and J. Chen, Ab Initio Calculation of Real Solids via Neural Network Ansatz, [Nat Commun 13, 1 (2022)](https://doi.org/10.1038/s41467-022-35627-1).
 
 ## [ByteDance/FermiNet_with_ECP](https://github.com/bytedance/FermiNet_with_ECP)
 
-An implementation combining FermiNet with effective core potential (ecp).
+![](https://img.shields.io/github/stars/bytedance/FermiNet_with_ECP?style=flat)
+![](https://img.shields.io/github/last-commit/bytedance/FermiNet_with_ECP)
+
+An implementation combining FermiNet with effective core potential (ECP).
 
 > X. Li, C. Fan, W. Ren, and J. Chen, Fermionic Neural Network with Effective Core Potential, [Phys. Rev. Research 4, 013021 (2022)](https://doi.org/10.1103/PhysRevResearch.4.013021).
