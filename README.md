@@ -1,5 +1,15 @@
 # List of projects developed in collaboration with us
 
+## [ByteDance/NetObs](https://github.com/bytedance/netobs)
+
+![](https://img.shields.io/github/stars/bytedance/netobs?style=flat)
+![](https://img.shields.io/github/last-commit/bytedance/netobs)
+
+Calculate observables from neural network-based VMC (NN-VMC).
+
+> Y. Qian, X. Li, and J. Chen, Force and Stress Calculation with Neural Network Wavefunction for Solids, [Faraday Discuss. (2024)](https://doi.org/10.1039/D4FD00071D).
+
+
 ## [ByteDance/LapNet](https://github.com/bytedance/LapNet)
 
 ![](https://img.shields.io/github/stars/bytedance/lapnet?style=flat)
