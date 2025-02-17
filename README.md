@@ -1,5 +1,14 @@
 # List of projects developed in collaboration with us
 
+## [ByteDance/DeepHall](https://github.com/bytedance/DeepHall)
+
+![](https://img.shields.io/github/stars/bytedance/deephall?style=flat)
+![](https://img.shields.io/github/last-commit/bytedance/deephall)
+
+Simulating the fractional quantum Hall effect with neural network variational Monte Carlo.
+
+> Y. Qian, T. Zhao, J. Zhang, T. Xiang, X. Li, and J. Chen, Taming Landau Level Mixing in Fractional Quantum Hall States with Deep Learning, [arXiv:2412.14795](https://arxiv.org/abs/2412.14795).
+
 ## [ByteDance/NetObs](https://github.com/bytedance/netobs)
 
 ![](https://img.shields.io/github/stars/bytedance/netobs?style=flat)
