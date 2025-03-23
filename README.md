@@ -9,6 +9,14 @@ Simulating the fractional quantum Hall effect with neural network variational Mo
 
 > Y. Qian, T. Zhao, J. Zhang, T. Xiang, X. Li, and J. Chen, Taming Landau Level Mixing in Fractional Quantum Hall States with Deep Learning, [arXiv:2412.14795](https://arxiv.org/abs/2412.14795).
 
+## [vipandyc/SPRamNet](https://github.com/vipandyc/SPRamNet)
+
+![](https://img.shields.io/github/stars/vipandyc/SPRamNet?style=flat)
+![](https://img.shields.io/github/last-commit/vipandyc/SPRamNet)
+
+> M. Cheng, C. Wang, C. Qin, Y. Zhang, Q. Zhang, H. Li, and J. Chen, Predicting Macroscopic Properties of Amorphous Monolayer Carbon via Pair Correlation Function, [arXiv:2410.03116](https://arxiv.org/abs/2410.03116).
+
+
 ## [ByteDance/NetObs](https://github.com/bytedance/netobs)
 
 ![](https://img.shields.io/github/stars/bytedance/netobs?style=flat)
